@@ -19,3 +19,11 @@ This project is open for public goods funding. If you wish to support our family
 ---
 *Thank you for supporting public goods and heritage preservation worldwide!*
 
+
+## Current Structural State & Pre-Restoration Evidence
+Below are the official, verified untampered photographs of our traditional family mudbrick ("Paxsa") house in Samarkand, taken in October 2026. This data serves as the baseline for our open-source, digital-twin restoration project. 
+
+- Image 1: Traditional log-supported ceiling and structural earth beams (IMG_4536.jpeg).
+- Image 2: Exterior cracked mud-brick insulation layers requiring bio-stabilization (IMG_4537.jpeg).
+- Image 3: Critical erosion points selected for IoT sensor implementation (IMG_4539.jpeg).
+
